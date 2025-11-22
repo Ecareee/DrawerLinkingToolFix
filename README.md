@@ -1,0 +1,1 @@
+Fix the disconnection when using linking tool in functional storage mod on lightfall servers by simply converting ARGB color code to RGB

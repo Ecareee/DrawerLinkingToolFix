@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.ecaree.drawerlinkingtoolfix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "mixins": [
+    "MixinLinkingMode",
+    "MixinActionMode"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
